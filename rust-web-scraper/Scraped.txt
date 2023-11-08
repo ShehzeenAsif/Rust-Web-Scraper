@@ -1,0 +1,19 @@
+Web Resource = https://www.dsu.edu.pk/contact-us/
+( No associated content found )
+
+Web Resource = http://admissions.dsu.edu.pk/apply/apply_online.php 
+[
+    "Copyright 2023 DHA Suffa University. All Rights Reserved",
+]
+
+Web Resource = https://www.dsu.edu.pk/comp-sci/
+( No associated content found )
+
+Web Resource = https://www.dsu.edu.pk/fees-structure/
+( No associated content found )
+
+Web Resource = https://www.dsu.edu.pk/academics/ 
+[
+    "DHA Suffa University offers Undergraduate, Master and Doctoral programs in Engineering, Management Sciences, Humanities and Social Sciences, Computer Science and newly launched programs BS Business Analytics & Programming, BS Computational & Industrial Mathematics, BS Accounting & Finance, BS Software Engineering, BS Data Sciences, BE Civil Engineering, BS International Relations, BS English and BS Psychology. Typically, an Undergraduate degree lasts four years, comprises of 8 semesters and total from 130 to 140 credit hours. The Master programs may last 2 to 3 years with compulsory and elective course credit hours. Furthermore, PhD programs consist of total course work of 18 credit hours, research thesis: 36 credit hours, proposal defence and thesis defence.",
+]
+
